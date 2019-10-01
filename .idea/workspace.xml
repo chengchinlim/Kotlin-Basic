@@ -50,28 +50,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ExtensionKt">
-    <configuration name="Basics2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.EnumKt">
+    <configuration name="DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Basics2Kt" />
+      <option name="MAIN_CLASS_NAME" value="DataClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
+      <option name="MAIN_CLASS_NAME" value="EnumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,14 +90,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="car.CarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="StrategyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="car.CarKt" />
+      <option name="MAIN_CLASS_NAME" value="StrategyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,19 +117,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.Basics2Kt" />
-      <item itemvalue="Kotlin.CollectionsKt" />
-      <item itemvalue="Kotlin.car.CarKt" />
       <item itemvalue="Kotlin.car.MinicarKt" />
       <item itemvalue="Kotlin.ExtensionKt" />
+      <item itemvalue="Kotlin.DataClassKt" />
+      <item itemvalue="Kotlin.StrategyKt" />
+      <item itemvalue="Kotlin.EnumKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnumKt" />
+        <item itemvalue="Kotlin.StrategyKt" />
+        <item itemvalue="Kotlin.DataClassKt" />
         <item itemvalue="Kotlin.ExtensionKt" />
         <item itemvalue="Kotlin.car.MinicarKt" />
-        <item itemvalue="Kotlin.car.CarKt" />
-        <item itemvalue="Kotlin.CollectionsKt" />
-        <item itemvalue="Kotlin.Basics2Kt" />
       </list>
     </recent_temporary>
   </component>
