@@ -1,6 +1,13 @@
 package car
 
-open class Car() {
+import java.util.*
+
+open class Car(): Comparable<Car> {
+
+    override fun compareTo(other: Car): Int {
+        return this.name!!.compareTo(other.name!!)
+    }
+
     var name: String? = null
     var price: Int? = 0
 
@@ -27,7 +34,14 @@ open class Car() {
 fun main() {
     val car1 = Car("Ford", 30000)
     val car2 = Car("Mazda")
+    val car3 = Car("BMW")
     println(car2.name)
     println("Second hand price: ${car1.getSecondHandPrice()}")
+
+    val list = arrayListOf(car1, car2, car3)
+    list.sort()
+    for (car in list) {
+        println(car.name)
+    }
 }
 
