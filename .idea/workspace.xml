@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="938485cd-bfd9-41a3-8fe7-b46fba95c3b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/META-INF/Kotlin_Basics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/META-INF/Kotlin_Basics.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Basics2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Basics2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/CollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/CollectionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/CreditCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/DataClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/DataClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/DataClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/DataClassKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Enum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Enum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/EnumKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/EnumKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/ExtensionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/ExtensionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/FileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/FileKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/GenericKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/GenericKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/META-INF/Kotlin_Basics.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Master.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Master.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Paypal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Paypal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Singleton$Companion$instance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Singleton$Companion$instance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Singleton$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Singleton$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/SingletonKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/SingletonKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/StrategyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/StrategyKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/ThreadKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/ThreadKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/Visa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/Visa.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/CarKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/CarKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car/Car.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/car/Car.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/MiniCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/MiniCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/MinicarKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_Basics/car/MinicarKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics.kt" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,73 +56,93 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/car" />
       <recent name="$PROJECT_DIR$/src/basic2" />
       <recent name="$PROJECT_DIR$/src/basic" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Kotlin.ThreadKt">
-    <configuration name="FileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.LambdaKt">
+    <configuration name="BasicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FileKt" />
+      <option name="MAIN_CLASS_NAME" value="BasicKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Basics2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="GenericKt" />
+      <option name="MAIN_CLASS_NAME" value="Basics2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SingletonKt" />
+      <option name="MAIN_CLASS_NAME" value="BasicsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Basics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Basics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -107,33 +155,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="car.CarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_Basics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="car.CarKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Kotlin.GenericKt" />
-      <item itemvalue="Kotlin.SingletonKt" />
-      <item itemvalue="Kotlin.car.CarKt" />
-      <item itemvalue="Kotlin.FileKt" />
       <item itemvalue="Kotlin.ThreadKt" />
+      <item itemvalue="Kotlin.Basics2Kt" />
+      <item itemvalue="Kotlin.CollectionsKt" />
+      <item itemvalue="Kotlin.BasicKt" />
+      <item itemvalue="Kotlin.LambdaKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ThreadKt" />
-        <item itemvalue="Kotlin.FileKt" />
-        <item itemvalue="Kotlin.car.CarKt" />
-        <item itemvalue="Kotlin.SingletonKt" />
-        <item itemvalue="Kotlin.GenericKt" />
+        <item itemvalue="Kotlin.LambdaKt" />
+        <item itemvalue="Kotlin.BasicKt" />
+        <item itemvalue="Kotlin.BasicsKt" />
+        <item itemvalue="Kotlin.CollectionsKt" />
+        <item itemvalue="Kotlin.Basics2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,24 +190,45 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <condition expression="text != &quot;Cheng&quot;" language="kotlin" />
-          <url>file://$PROJECT_DIR$/src/Basics.kt</url>
-          <line>11</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state width="1858" height="292" key="GridCell.Tab.0.bottom" timestamp="1588631826439">
+      <screen x="-72" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="292" key="GridCell.Tab.0.bottom/-72.-1080.1920.1080/0.0.1792.1120@-72.-1080.1920.1080" timestamp="1588631826439" />
+    <state width="1730" height="292" key="GridCell.Tab.0.bottom/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588620413081" />
+    <state width="1858" height="292" key="GridCell.Tab.0.center" timestamp="1588631826437">
+      <screen x="-72" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="292" key="GridCell.Tab.0.center/-72.-1080.1920.1080/0.0.1792.1120@-72.-1080.1920.1080" timestamp="1588631826437" />
+    <state width="1730" height="292" key="GridCell.Tab.0.center/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588620413079" />
+    <state width="1858" height="292" key="GridCell.Tab.0.left" timestamp="1588631826436">
+      <screen x="-72" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="292" key="GridCell.Tab.0.left/-72.-1080.1920.1080/0.0.1792.1120@-72.-1080.1920.1080" timestamp="1588631826436" />
+    <state width="1730" height="292" key="GridCell.Tab.0.left/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588620413078" />
+    <state width="1858" height="292" key="GridCell.Tab.0.right" timestamp="1588631826438">
+      <screen x="-72" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1858" height="292" key="GridCell.Tab.0.right/-72.-1080.1920.1080/0.0.1792.1120@-72.-1080.1920.1080" timestamp="1588631826438" />
+    <state width="1730" height="292" key="GridCell.Tab.0.right/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588620413080" />
+    <state x="128" y="20" key="SettingsEditor" timestamp="1588618167486">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="128" y="20" key="SettingsEditor/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588618167486" />
+    <state x="467" y="158" width="857" height="804" key="find.popup" timestamp="1588617419239">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="467" y="158" width="857" height="804" key="find.popup/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588617419239" />
+    <state x="393" y="0" width="1005" height="1466" key="search.everywhere.popup" timestamp="1588617401100">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="393" y="0" width="1005" height="1466" key="search.everywhere.popup/-72.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1588617401100" />
   </component>
 </project>
